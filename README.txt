@@ -6,3 +6,5 @@ Setup instruction:
 5. Run the Assignment4Application class
 6. If fail, install maven and try again.
 7. Go to your browser at localhost:8080/students/list to interact
+
+Youtube URL: https://youtu.be/TXCCfUxV2Ac
